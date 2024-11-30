@@ -1,0 +1,63 @@
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.deps.json
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.dll
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.pdb
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.dll
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.pdb
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.Up2Date
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.dll
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\refint\Pronia.BL.dll
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.pdb
+C:\Users\User\source\repos\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\ref\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.deps.json
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.pdb
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.dll
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.pdb
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.sourcelink.json
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.Up2Date
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\refint\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.pdb
+C:\Users\I Novbe\Desktop\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\ref\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.deps.json
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.pdb
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.dll
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.pdb
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.sourcelink.json
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.Up2Date
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\refint\Pronia.BL.dll
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.pdb
+C:\Users\I Novbe\Desktop\AB108\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\ref\Pronia.BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.BL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\bin\Debug\net8.0\Pronia.DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.sourcelink.json
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.csproj.Up2Date
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\refint\Pronia.BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\Pronia.BL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\ProniaProject\Pronia.MVC\Pronia.BL\obj\Debug\net8.0\ref\Pronia.BL.dll
